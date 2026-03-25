@@ -5,7 +5,7 @@ public class DefaultCountingOutRhymer {
     public static final int eleven = 11;
     public static final int size = 12;
 
-    private int[] numbers = new int[size];
+    private final int[] numbers = new int[size];
 
     public int total = ujemne;
 
